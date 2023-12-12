@@ -8,21 +8,33 @@ Easy to use and open-source stealer that's super effective.
 • Discord token info
 
   > Nitro
+
   > Badges
+
   > Billing
+
   > Email
+
   > Phone
+
   > HQ Guilds
+
   > HQ Friends
+
   > Gift codes
 
 • Browser data
 
   > Cookies
+
   > Passwords
+
   > History
+
   > Bookmarks
+
   > Autofill
+
   > Chrome, Edge, Brave, Opera GX, and many more...
 
 • Discord injection
@@ -32,10 +44,15 @@ Easy to use and open-source stealer that's super effective.
 • System info
 
   > User
+
   > System
+
   > Disk
+
   > Network
+
   > WiFi
+
   > Screenshot
 
 • Anti-debug
@@ -45,6 +62,7 @@ Easy to use and open-source stealer that's super effective.
 • Startup persistence
 
   > Place stub in appdata
+
   > Add to startup registry
 
 # Install
